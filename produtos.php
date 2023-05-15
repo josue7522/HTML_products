@@ -20,11 +20,11 @@
             <div class="fundoverde_3"></div>
             <span class="letratrocar_3">TROCAR</span>
 
-            <img id="chuteirola" src="img/folga.png" alt="">
-            <img id="chuteirola1" src="img/celular.png" alt="">
-            <img id="chuteirola2" src="img/valecompra.png" alt="">
-            <img id="chuteirola3" src="img/v4_11.png" alt="">
-            <img id="chuteirola4" src="img/valeviagem.png" alt="">
+            <img id="folga" src="img/folga.png" alt="">
+            <img id="celular" src="img/celular.png" alt="">
+            <img id="valecompra" src="img/valecompra.png" alt="">
+            <img id="chuteira" src="img/v4_11.png" alt="">
+            <img id="valeviagem" src="img/valeviagem.png" alt="">
 
 
 
