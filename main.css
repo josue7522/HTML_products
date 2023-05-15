@@ -1,0 +1,627 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  position: absolute;
+  align-items: center;
+
+}
+
+.produto-a-ser-trocado {
+  width: 256px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 352px;
+  left: 93px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.barraverde {
+  width: 1895px;;
+  height: 128px;
+  background: rgba(55,173,53,1);
+
+  position: absolute;
+  top: 210px;
+  left: 0px;
+
+}
+
+.totaldemetalcoin {
+position: absolute;
+width: 197px;
+height: 24px;
+left: 1126px;
+top: 264px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+}
+.home {
+  position: absolute;
+  width: 53px;
+  height: 24px;
+  left: 260px;
+  top: 118px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #020202;
+  
+}
+.o_que_metalcoins {
+  position: absolute;
+  width: 182px;
+  height: 24px;
+  left: 468px;
+  top: 118px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+color: #000000;
+}
+.perfil {
+  position: absolute;
+width: 83px;
+height: 24px;
+left: 363px;
+top: 118px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.inicio_loja {
+  position: absolute;
+width: 130px;
+height: 24px;
+left: 67px;
+top: 262px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+.facalogin {
+  position: absolute;
+width: 174px;
+height: 48px;
+left: 1720px;
+top: 56px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.fundoverde_1 {
+  position: absolute;
+width: 134px;
+height: 40px;
+left: 158px;
+top: 765px;
+
+background: #38AD35;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.letratrocar_1 {
+  position: absolute;
+width: 120px;
+height: 26px;
+left: 174px;
+top: 773px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.fundoverde_2 {
+  position: absolute;
+width: 134px;
+height: 40px;
+left: 441px;
+top: 765px;
+
+background: #38AD35;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.letratrocar_2 {
+  position: absolute;
+width: 82px;
+height: 24px;
+left: 468px;
+top: 772px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.fundoverde_3 {
+  position: absolute;
+width: 134px;
+height: 40px;
+left: 758px;
+top: 765px;
+
+background: #38AD35;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.letratrocar_3 {
+  position: absolute;
+width: 82px;
+height: 24px;
+left: 784px;
+top: 773px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.fundoverde_4 {
+
+  position: absolute;
+  width: 134px;
+  height: 40px;
+  left: 1065px;
+  top: 765px;
+  
+  background: #38AD35;
+
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.letratrocar_4 {
+  position: absolute;
+width: 82px;
+height: 24px;
+left: 1086px;
+top: 773px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF  
+}
+
+.fundoverde_5 {
+  position: absolute;
+width: 134px;
+height: 40px;
+left: 1372px;
+top: 765px;
+
+background: #38AD35;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.letratrocar_5 {
+  position: absolute;
+width: 82px;
+height: 24px;
+left: 1383px;
+top: 773px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF
+  
+}
+
+
+#logologin {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 1670px;
+  top: 57px;
+}
+
+#lupa {
+  position: absolute;
+  width: 44px;
+  height: 40px;
+  left: 941px;
+  top: 259px;
+}
+
+.luzverde {
+  position: absolute;
+  width: 701px;
+  height: 49px;
+  left: 289px;
+  top: 252px;
+
+  border: 0px;
+  
+  background: #D9D9D9;
+  border-radius: 25px;
+}
+.barrapesquisa {
+  position: absolute;
+  width: 330px;
+  height: 24px;
+  left: 320px;
+  top: 262px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #BC8D8D;
+}
+.todos {
+  position: absolute;
+width: 58px;
+height: 24px;
+left: 436px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #097621;
+}
+.coin {
+  position: absolute;
+  width: 140px;
+  height: 24px;
+  left: 1370px;
+  top: 736px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #FF0000
+}
+.coin1 {
+  width: 140px;
+  color: rgba(255,0,0,1);
+  position: absolute;
+  top: 731px;
+  left: 153px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.coin2 {
+  width: 140px;
+  color: rgba(255,0,0,1);
+  position: absolute;
+  top: 734px;
+  left: 448px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.coin3 {
+  position: absolute;
+width: 140px;
+height: 24px;
+left: 765px;
+top: 734px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FF0000;
+}
+.coin4 {
+  position: absolute;
+width: 140px;
+height: 24px;
+left: 1069px;
+top: 736px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FF0000;
+}
+.coin5 {
+  position: absolute;
+width: 140px;
+height: 24px;
+left: 1370px;
+top: 736px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #FF0000;
+
+color: #FF0000;
+
+}
+
+.item1 {
+  position: absolute;
+  width: 245px;
+  height: 48px;
+  left: 103px;
+  top: 666px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+
+}
+.item2 {
+  position: absolute;
+width: 257px;
+height: 48px;
+left: 422px;
+top: 667px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.item3 {
+  position: absolute;
+  width: 228px;
+  height: 48px;
+  left: 753px;
+  top: 678px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+}
+.item4 {
+  position: absolute;
+  width: 223px;
+  height: 48px;
+  left: 1060px;
+  top: 678px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.item5 {
+  position: absolute;
+width: 245px;
+height: 48px;
+left: 1362px;
+top: 678px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.item6 {
+  position: absolute;
+  width: 223px;
+  height: 48px;
+  left: 1060px;
+  top: 678px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.item7 {
+  position: absolute;
+  width: 2014px;
+  height: 1267px;
+  
+  background: #FFFFFF;
+}
+.item8 {
+  position: absolute;
+width: 228px;
+height: 48px;
+left: 759px;
+top: 1022px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000
+
+}
+.fundoverde6 {
+  position: absolute;
+width: 128px;
+height: 40px;
+left: 162px;
+top: 1145px;
+
+background: #38AD35;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+#logovix {
+  position: absolute;
+  width: 152px;
+  height: 142px;
+  left: 67px;
+  top: 56px;
+}
+.v4_16 {
+  width: 82px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1144px;
+  left: 468px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+#folga {
+position: absolute;
+width: 249px;
+height: 180px;
+left: 96px;
+top: 487px;
+}
+#celular {
+  position: absolute;
+width: 249px;
+height: 180px;
+left: 417px;
+top: 487px;
+}
+  #valecompra {
+    position: absolute;
+width: 215px;
+height: 180px;
+left: 738px;
+top: 487px;
+}
+    #chuteira {
+      position: absolute;
+      width: 215px;
+      height: 180px;
+      left: 1365px;
+      top: 477px
+}
+      #valeviagem {
+        position: absolute;
+        width: 249px;
+        height: 180px;
+        left: 1047px;
+        top: 484px;
+}
